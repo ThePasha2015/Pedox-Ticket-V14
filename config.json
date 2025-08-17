@@ -1,0 +1,12 @@
+{
+    "token": "TOKEN GİR",
+    "clientId": "SAHİP İD GİR",
+    "guildId": "SUNUCU İD GİR",
+    "ticketParent": "TİCKET KATEGORİ İD GİR",
+    "staffRoles": ["YETKİLİ ROL 1", "YETKİLİ ROL 2", "YETKİLİ ROL 3"],
+    "embedColor": "#2f3136",
+    "ticketLog": {
+        "enabled": true,
+        "channelId": "KANAL İD GİR"
+    }
+}

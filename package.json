@@ -1,0 +1,26 @@
+{
+    "name": "ticket-altyapi",
+    "version": "1.0.0",
+    "description": "Ticket Altyapı - Discord.js v14",
+    "main": "pedoxx.js",
+    "scripts": {
+      "start": "node pedoxx.js"
+    },
+    "keywords": [
+      "discord",
+      "bot",
+      "ticket"
+    ],
+    "author": "Pedoxx",
+    "license": "MIT",
+    "dependencies": {
+      "discord.js": "^14.11.0"
+    },
+     "repository": {
+      "type": "git",
+      "url": "https://github.com/starrhub/Ticket-Altyapi-Discord.js-v14"
+   },
+    "engines": {
+      "node": ">=16.9.0"
+    }
+  }
